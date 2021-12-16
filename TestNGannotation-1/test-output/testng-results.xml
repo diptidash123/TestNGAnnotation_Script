@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[rkl]]>
+    </line>
+    <line>
+      <![CDATA[balasore]]>
+    </line>
+    <line>
+      <![CDATA[ctc]]>
+    </line>
+    <line>
+      <![CDATA[puri]]>
+    </line>
+    <line>
+      <![CDATA[bmw]]>
+    </line>
+    <line>
+      <![CDATA[puri]]>
+    </line>
+    <line>
+      <![CDATA[ford]]>
+    </line>
+    <line>
+      <![CDATA[puri]]>
+    </line>
+    <line>
+      <![CDATA[dhenkanal]]>
+    </line>
+    <line>
+      <![CDATA[khordha]]>
+    </line>
+    <line>
+      <![CDATA[konark]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+      <class name="annototations.Annotataions">
+        <test-method status="PASS" signature="rkl()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="rkl" is-config="true" duration-ms="26" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[rkl]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- rkl -->
+        <test-method status="PASS" signature="balasore()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="balasore" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[balasore]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- balasore -->
+        <test-method status="PASS" signature="ctc()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="ctc" is-config="true" duration-ms="1" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ctc]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ctc -->
+        <test-method status="PASS" signature="bbsr()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="bbsr" is-config="true" duration-ms="1" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bbsr -->
+        <test-method status="PASS" signature="benz()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="benz" duration-ms="13" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- benz -->
+        <test-method status="PASS" signature="puri()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="puri" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[puri]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- puri -->
+        <test-method status="PASS" signature="bbsr()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="bbsr" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bbsr -->
+        <test-method status="PASS" signature="bmw()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="bmw" duration-ms="3" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[bmw]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bmw -->
+        <test-method status="PASS" signature="puri()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="puri" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[puri]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- puri -->
+        <test-method status="PASS" signature="bbsr()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="bbsr" is-config="true" duration-ms="1" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bbsr -->
+        <test-method status="PASS" signature="ford()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="ford" duration-ms="3" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ford]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ford -->
+        <test-method status="PASS" signature="puri()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="puri" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[puri]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- puri -->
+        <test-method status="PASS" signature="dhenkanal()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="dhenkanal" is-config="true" duration-ms="1" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[dhenkanal]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- dhenkanal -->
+        <test-method status="PASS" signature="khordha()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="khordha" is-config="true" duration-ms="0" started-at="2020-08-03T05:52:06Z" finished-at="2020-08-03T05:52:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[khordha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- khordha -->
+        <test-method status="PASS" signature="konark()[pri:0, instance:annototations.Annotataions@7dc7cbad]" name="konark" is-config="true" duration-ms="1" started-at="2020-08-03T05:52:07Z" finished-at="2020-08-03T05:52:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[konark]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- konark -->
+      </class> <!-- annototations.Annotataions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

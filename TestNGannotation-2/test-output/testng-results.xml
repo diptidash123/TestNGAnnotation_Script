@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44021" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:45:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44021" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:45:36Z">
+      <class name="annotations.Annotationsfile">
+        <test-method status="PASS" signature="startfirst()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="startfirst" is-config="true" duration-ms="34" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startfirst -->
+        <test-method status="PASS" signature="starttwo()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="starttwo" is-config="true" duration-ms="1" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttwo -->
+        <test-method status="PASS" signature="startexecution()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="startexecution" is-config="true" duration-ms="1" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startexecution -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="openbrowser" is-config="true" duration-ms="25963" started-at="2020-08-05T13:44:52Z" finished-at="2020-08-05T13:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="accenture()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="accenture" duration-ms="16" started-at="2020-08-05T13:45:18Z" finished-at="2020-08-05T13:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accenture -->
+        <test-method status="PASS" signature="end()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="end" is-config="true" duration-ms="1" started-at="2020-08-05T13:45:18Z" finished-at="2020-08-05T13:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="openbrowser" is-config="true" duration-ms="9062" started-at="2020-08-05T13:45:18Z" finished-at="2020-08-05T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="tcs()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="tcs" duration-ms="2" started-at="2020-08-05T13:45:27Z" finished-at="2020-08-05T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcs -->
+        <test-method status="PASS" signature="end()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="end" is-config="true" duration-ms="1" started-at="2020-08-05T13:45:27Z" finished-at="2020-08-05T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="openbrowser" is-config="true" duration-ms="8902" started-at="2020-08-05T13:45:27Z" finished-at="2020-08-05T13:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="wipro()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="wipro" duration-ms="4" started-at="2020-08-05T13:45:36Z" finished-at="2020-08-05T13:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wipro -->
+        <test-method status="PASS" signature="end()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="end" is-config="true" duration-ms="1" started-at="2020-08-05T13:45:36Z" finished-at="2020-08-05T13:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="endtwo()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="endtwo" is-config="true" duration-ms="4" started-at="2020-08-05T13:45:36Z" finished-at="2020-08-05T13:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtwo -->
+        <test-method status="PASS" signature="random()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="random" is-config="true" duration-ms="0" started-at="2020-08-05T13:45:36Z" finished-at="2020-08-05T13:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- random -->
+        <test-method status="PASS" signature="endfirst()[pri:0, instance:annotations.Annotationsfile@1753acfe]" name="endfirst" is-config="true" duration-ms="1" started-at="2020-08-05T13:45:37Z" finished-at="2020-08-05T13:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endfirst -->
+      </class> <!-- annotations.Annotationsfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
